@@ -38,7 +38,7 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: var(--color-blue);
+    background-color: green;
 }
 
 /* Style de la section de droite */
